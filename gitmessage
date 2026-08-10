@@ -1,0 +1,16 @@
+# --- COMMIT MESSAGE FORMAT ---
+# <type>(<scope>): <short summary>
+#
+# Types: feat, fix, docs, style, refactor, perf, test, chore, build, ci
+#
+# Example: feat(auth): add google oauth2 login endpoint
+# -----------------------------
+
+# Summary (50 chars max, imperative mood, lowercase):
+
+
+# Detailed explanation of what & why (wrap at 72 chars):
+
+
+# Issues / Tickets resolved:
+# Fixes #
