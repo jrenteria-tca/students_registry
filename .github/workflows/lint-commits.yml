@@ -1,7 +1,10 @@
 name: "Lint Commit Messages"
 
 on:
-  pull_request:
+    push:
+        branches-ignore:
+            - 'main' # Optional: stops it from running on main if pushed directly
+    pull_request:
 
 jobs:
   commitlint:
