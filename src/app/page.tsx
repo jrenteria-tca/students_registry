@@ -9,5 +9,5 @@ export default function Home() {
    useEffect(() => {
       navigator.replace("/dashboard");
    }, []);
-   return <div>cargando...</div>;
+   return <div>cargando mas texto para mas commits...</div>;
 }
